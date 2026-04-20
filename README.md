@@ -180,7 +180,7 @@ This project reinforced an important principle of HRL:
 ## Repository
 
 GitHub Repository:  
-`https://github.com/brentoatis-collab/CST643-Week5-HRL-Hospital-Robot`
+`https://github.com/brentoatis-collab/CST643_Week5_HRL_Hospital_Robot`
 
 ---
 
