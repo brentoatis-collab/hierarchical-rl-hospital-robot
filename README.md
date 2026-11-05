@@ -183,7 +183,7 @@ This project reinforced an important principle of HRL:
 ## Repository
 
 GitHub Repository:  
-`https://github.com/brentoatis-collab/CST643_Week5_HRL_Hospital_Robot`
+`https://github.com/brentoatis-collab/hierarchical-rl-hospital-robot`
 
 ---
 
