@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Applying hierarchical reinforcement learning to hospital logistics and task planning.
+
 # CST643 Week 5 – Hierarchical Reinforcement Learning Hospital Robot
 
 ## Project Overview
